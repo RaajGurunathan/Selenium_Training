@@ -21,7 +21,7 @@ public class Mobile {
 		boolean makeCall = m.makeCall(123456);
 		System.out.println(makeCall);
 		String sendSMS = m.sendSMS("Raaj");
-		System.err.println(sendSMS);
+		System.out.println(sendSMS);
 		m.shutDown();
 	}
 

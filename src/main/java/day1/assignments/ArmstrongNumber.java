@@ -24,7 +24,7 @@ public class ArmstrongNumber {
 
 		// Declare your input
 
-		int input = 397;
+		int input = 398;
 		// Declare 3 more int variables as calculated, remainder, original (Tip: Initialize calculated alone)
 		int calculated=0;
 		int remainder=0, original=0;
